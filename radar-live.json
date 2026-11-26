@@ -1,93 +1,93 @@
 {
-  "updated": "2026-11-26T02:56:42.033788+00:00",
+  "updated": "2026-11-26T11:26:42.328738+00:00",
   "rows": [
     {
       "symbol": "BTCUSDT",
       "short": {
-        "price": 61028.37,
-        "ema20": 60581.729904599364,
-        "ema50": 60060.356997054914,
-        "rsi": 68.41,
-        "volume_ratio": 0.93,
-        "atr": 301.7585714285721,
-        "time": 1795661099999
+        "price": 60608.78,
+        "ema20": 60726.4893704296,
+        "ema50": 60565.179829464156,
+        "rsi": 46.19,
+        "volume_ratio": 0.46,
+        "atr": 182.44785714285692,
+        "time": 1795691699999
       },
       "long": {
-        "price": 60873.72,
-        "ema20": 59766.23660800909,
-        "ema50": 59816.64514605041,
-        "rsi": 66.5,
-        "volume_ratio": 0.58,
-        "atr": 763.6071428571433,
-        "time": 1795658399999
+        "price": 60518.01,
+        "ema20": 60343.21186071878,
+        "ema50": 60109.57147348585,
+        "rsi": 54.9,
+        "volume_ratio": 0.43,
+        "atr": 457.37785714285775,
+        "time": 1795690799999
       },
       "technical": "WAIT",
-      "hypothetical_stop": 60424.852857,
-      "hypothetical_target": 62235.404286
+      "hypothetical_stop": 60243.884286,
+      "hypothetical_target": 61338.571429
     },
     {
       "symbol": "ETHUSDT",
       "short": {
-        "price": 1704.57,
-        "ema20": 1696.663197588814,
-        "ema50": 1683.7838350115776,
-        "rsi": 64.87,
-        "volume_ratio": 0.31,
-        "atr": 8.739999999999993,
-        "time": 1795661099999
+        "price": 1696.79,
+        "ema20": 1697.1357352352732,
+        "ema50": 1692.9682800783037,
+        "rsi": 50.35,
+        "volume_ratio": 0.72,
+        "atr": 5.190000000000006,
+        "time": 1795691699999
       },
       "long": {
-        "price": 1702.58,
-        "ema20": 1676.4700035584171,
-        "ema50": 1678.6055480272287,
-        "rsi": 64.3,
-        "volume_ratio": 0.37,
-        "atr": 24.432142857142853,
-        "time": 1795658399999
+        "price": 1695.04,
+        "ema20": 1688.5360802983969,
+        "ema50": 1684.441731929196,
+        "rsi": 55.36,
+        "volume_ratio": 0.3,
+        "atr": 12.972142857142867,
+        "time": 1795690799999
       },
       "technical": "WAIT",
-      "hypothetical_stop": 1687.09,
-      "hypothetical_target": 1739.53
+      "hypothetical_stop": 1686.41,
+      "hypothetical_target": 1717.55
     },
     {
       "symbol": "SOLUSDT",
       "short": {
-        "price": 71.37,
-        "ema20": 70.84025722541443,
-        "ema50": 70.08924652727906,
-        "rsi": 67.85,
-        "volume_ratio": 0.6,
-        "atr": 0.3864285714285763,
-        "time": 1795661099999
+        "price": 70.64,
+        "ema20": 70.90659291009541,
+        "ema50": 70.72020884818659,
+        "rsi": 41.23,
+        "volume_ratio": 1.33,
+        "atr": 0.2250000000000004,
+        "time": 1795691699999
       },
       "long": {
-        "price": 71.13,
-        "ema20": 69.64988470067243,
-        "ema50": 69.75861732133069,
-        "rsi": 65.94,
-        "volume_ratio": 0.67,
-        "atr": 1.0407142857142841,
-        "time": 1795658399999
+        "price": 70.57,
+        "ema20": 70.40969723055355,
+        "ema50": 70.12034090814795,
+        "rsi": 54.31,
+        "volume_ratio": 0.49,
+        "atr": 0.5428571428571425,
+        "time": 1795690799999
       },
       "technical": "WAIT",
-      "hypothetical_stop": 70.597143,
-      "hypothetical_target": 72.915714
+      "hypothetical_stop": 70.19,
+      "hypothetical_target": 71.54
     }
   ],
   "headlines": [
-    "French Senate blocks new crypto tax and wallet list critics called a kidnapping risk",
-    "'This time actually seems different': Crypto veterans brace for more pain as bitcoin tumbles",
-    "EU bank watchdog seeks European Commission rules for crypto firms offering DeFi lending",
-    "Ukrainian lawmakers pass crypto tax and regulation bill expected to bring in $330 million",
-    "Crypto Long & Short: Bitcoin investors can’t keep ignoring Japan"
+    "Bitcoin little changed, DeFi tokens lead the bounce as U.S. marks Thanksgiving",
+    "Nvidia shipment freeze and U.S. chip curbs put AI stocks under pressure",
+    "New York Attorney General wins $1.4 billion ruling against founders of crypto trading firm NovaTech",
+    "$7 billion of bitcoin options expire Friday, and the biggest bets look starkly different from October",
+    "Zcash developers want users to move $300 million out of an older privacy system"
   ],
   "ai": null,
   "paper_positions": {},
   "paper_events": [],
   "last_seen": {
-    "BTCUSDT": 1795661099999,
-    "ETHUSDT": 1795661099999,
-    "SOLUSDT": 1795661099999
+    "BTCUSDT": 1795691699999,
+    "ETHUSDT": 1795691699999,
+    "SOLUSDT": 1795691699999
   },
   "history": [],
   "history_started": "2026-11-26T02:56:41.887550+00:00",
