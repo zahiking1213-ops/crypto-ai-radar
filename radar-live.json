@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T02:33:35.858570+00:00",
+  "updated": "2026-11-26T02:40:28.940018+00:00",
   "rows": [
     {
       "symbol": "BTCUSDT",
@@ -81,5 +81,13 @@
     "Ukrainian lawmakers pass crypto tax and regulation bill expected to bring in $330 million",
     "Crypto Long & Short: Bitcoin investors can’t keep ignoring Japan"
   ],
-  "ai": null
+  "ai": null,
+  "paper_positions": {},
+  "paper_events": [],
+  "last_seen": {
+    "BTCUSDT": 1795660199999,
+    "ETHUSDT": 1795660199999,
+    "SOLUSDT": 1795660199999
+  },
+  "ai_status": "skipped"
 }
