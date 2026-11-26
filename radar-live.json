@@ -1,16 +1,16 @@
 {
-  "updated": "2026-11-26T02:40:28.940018+00:00",
+  "updated": "2026-11-26T02:45:16.214198+00:00",
   "rows": [
     {
       "symbol": "BTCUSDT",
       "short": {
-        "price": 60966.54,
-        "ema20": 60534.71384764333,
-        "ema50": 60020.69038885937,
-        "rsi": 67.25,
-        "volume_ratio": 1.22,
-        "atr": 307.99785714285775,
-        "time": 1795660199999
+        "price": 61028.37,
+        "ema20": 60581.729904599364,
+        "ema50": 60060.356997054914,
+        "rsi": 68.41,
+        "volume_ratio": 0.93,
+        "atr": 301.7585714285721,
+        "time": 1795661099999
       },
       "long": {
         "price": 60873.72,
@@ -22,19 +22,19 @@
         "time": 1795658399999
       },
       "technical": "WAIT",
-      "hypothetical_stop": 60350.544286,
-      "hypothetical_target": 62198.531429
+      "hypothetical_stop": 60424.852857,
+      "hypothetical_target": 62235.404286
     },
     {
       "symbol": "ETHUSDT",
       "short": {
-        "price": 1703.4,
-        "ema20": 1695.8308517350283,
-        "ema50": 1682.9180589861242,
-        "rsi": 63.85,
-        "volume_ratio": 0.56,
-        "atr": 9.07357142857141,
-        "time": 1795660199999
+        "price": 1704.57,
+        "ema20": 1696.663197588814,
+        "ema50": 1683.7838350115776,
+        "rsi": 64.87,
+        "volume_ratio": 0.31,
+        "atr": 8.739999999999993,
+        "time": 1795661099999
       },
       "long": {
         "price": 1702.58,
@@ -46,19 +46,19 @@
         "time": 1795658399999
       },
       "technical": "WAIT",
-      "hypothetical_stop": 1685.252857,
-      "hypothetical_target": 1739.694286
+      "hypothetical_stop": 1687.09,
+      "hypothetical_target": 1739.53
     },
     {
       "symbol": "SOLUSDT",
       "short": {
-        "price": 71.33,
-        "ema20": 70.78449250499803,
-        "ema50": 70.0354005259409,
-        "rsi": 67.26,
-        "volume_ratio": 0.86,
-        "atr": 0.3964285714285763,
-        "time": 1795660199999
+        "price": 71.37,
+        "ema20": 70.84025722541443,
+        "ema50": 70.08924652727906,
+        "rsi": 67.85,
+        "volume_ratio": 0.6,
+        "atr": 0.3864285714285763,
+        "time": 1795661099999
       },
       "long": {
         "price": 71.13,
@@ -70,7 +70,7 @@
         "time": 1795658399999
       },
       "technical": "WAIT",
-      "hypothetical_stop": 70.537143,
+      "hypothetical_stop": 70.597143,
       "hypothetical_target": 72.915714
     }
   ],
@@ -85,9 +85,9 @@
   "paper_positions": {},
   "paper_events": [],
   "last_seen": {
-    "BTCUSDT": 1795660199999,
-    "ETHUSDT": 1795660199999,
-    "SOLUSDT": 1795660199999
+    "BTCUSDT": 1795661099999,
+    "ETHUSDT": 1795661099999,
+    "SOLUSDT": 1795661099999
   },
   "ai_status": "skipped"
 }
