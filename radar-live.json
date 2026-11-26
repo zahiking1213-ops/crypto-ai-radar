@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T02:47:37.070667+00:00",
+  "updated": "2026-11-26T02:56:42.033788+00:00",
   "rows": [
     {
       "symbol": "BTCUSDT",
@@ -89,5 +89,17 @@
     "ETHUSDT": 1795661099999,
     "SOLUSDT": 1795661099999
   },
+  "history": [],
+  "history_started": "2026-11-26T02:56:41.887550+00:00",
+  "performance": {
+    "initial": 1000,
+    "realized": 0,
+    "balance": 1000,
+    "closed": 0,
+    "wins": 0
+  },
+  "last_daily": null,
+  "ai_calls": 0,
+  "ai_usage": {},
   "ai_status": "skipped"
 }
