@@ -1,0 +1,1 @@
+Upload all files together to a static HTTPS host. Open the HTTPS URL in Chrome Android, then use Install app or Add to home screen. Public Binance data only; foreground refresh only. No AI, push alerts, paper-trade ledger, or live trading. Offline shell does not provide market data. Live endpoint and Android installation not tested.
