@@ -1,0 +1,51 @@
+name: Test AI Connection
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test-ai:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Test OpenAI
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
+        run: |
+          python - <<'PY'
+          import os, json, urllib.request, urllib.error
+
+          data = {
+              "model": os.environ["OPENAI_MODEL"],
+              "input": "Reply with exactly: AI_CONNECTED",
+              "max_output_tokens": 128,
+              "store": False
+          }
+
+          req = urllib.request.Request(
+              "https://api.openai.com/v1/responses",
+              data=json.dumps(data).encode(),
+              headers={
+                  "Authorization": "Bearer " + os.environ["OPENAI_API_KEY"],
+                  "Content-Type": "application/json"
+              }
+          )
+
+          try:
+              with urllib.request.urlopen(req, timeout=90) as r:
+                  result = json.load(r)
+              print("Model:", result.get("model"))
+              for item in result.get("output", []):
+                  for part in item.get("content", []):
+                      if part.get("type") == "output_text":
+                          if "AI_CONNECTED" in part.get("text", ""):
+                              print("AI_CONNECTED")
+                              raise SystemExit(0)
+              raise SystemExit("No expected AI response")
+          except urllib.error.HTTPError as e:
+              print("API error:", e.code)
+              raise SystemExit(1)
+          PY
