@@ -1,87 +1,87 @@
 {
-  "updated": "2026-11-27T03:10:20.587155+00:00",
+  "updated": "2026-11-27T12:40:49.050277+00:00",
   "rows": [
     {
       "symbol": "BTCUSDT",
       "short": {
-        "price": 61319.44,
-        "ema20": 60912.39731021845,
-        "ema50": 60769.09224588957,
-        "rsi": 66.09,
-        "volume_ratio": 1.09,
-        "atr": 253.42428571428536,
-        "time": 1795748399999
+        "price": 61586.01,
+        "ema20": 61653.85095246045,
+        "ema50": 61479.872358099994,
+        "rsi": 47.5,
+        "volume_ratio": 0.49,
+        "atr": 148.5342857142849,
+        "time": 1795782599999
       },
       "long": {
-        "price": 61319.44,
-        "ema20": 60666.60760354907,
-        "ema50": 60410.95228771123,
-        "rsi": 66.12,
-        "volume_ratio": 3.14,
-        "atr": 381.5700000000002,
-        "time": 1795748399999
+        "price": 61662.57,
+        "ema20": 61247.72326253411,
+        "ema50": 60799.740400851755,
+        "rsi": 66.96,
+        "volume_ratio": 0.91,
+        "atr": 414.8528571428568,
+        "time": 1795780799999
       },
       "technical": "WAIT",
-      "hypothetical_stop": 60812.591429,
-      "hypothetical_target": 62333.137143
+      "hypothetical_stop": 61288.941429,
+      "hypothetical_target": 62180.147143
     },
     {
       "symbol": "ETHUSDT",
       "short": {
-        "price": 1722.15,
-        "ema20": 1706.3113704839097,
-        "ema50": 1701.5865058948104,
-        "rsi": 68.64,
-        "volume_ratio": 1.05,
-        "atr": 8.442142857142878,
-        "time": 1795748399999
+        "price": 1721.13,
+        "ema20": 1727.8503578738153,
+        "ema50": 1724.2902774801248,
+        "rsi": 37.57,
+        "volume_ratio": 0.42,
+        "atr": 4.936428571428564,
+        "time": 1795782599999
       },
       "long": {
-        "price": 1722.15,
-        "ema20": 1699.195585002967,
-        "ema50": 1692.6808803628412,
-        "rsi": 65.57,
-        "volume_ratio": 4.04,
-        "atr": 13.132857142857135,
-        "time": 1795748399999
+        "price": 1724.04,
+        "ema20": 1718.113220329299,
+        "ema50": 1704.9512030644999,
+        "rsi": 57.42,
+        "volume_ratio": 0.81,
+        "atr": 14.456428571428546,
+        "time": 1795780799999
       },
       "technical": "WAIT",
-      "hypothetical_stop": 1705.265714,
-      "hypothetical_target": 1755.918571
+      "hypothetical_stop": 1711.257143,
+      "hypothetical_target": 1740.875714
     },
     {
       "symbol": "SOLUSDT",
       "short": {
-        "price": 72.37,
-        "ema20": 71.6570403419595,
-        "ema50": 71.37567419477618,
-        "rsi": 68.99,
-        "volume_ratio": 1.67,
-        "atr": 0.3278571428571441,
-        "time": 1795748399999
+        "price": 73.04,
+        "ema20": 73.2303270789126,
+        "ema50": 72.81959714299852,
+        "rsi": 45.25,
+        "volume_ratio": 0.33,
+        "atr": 0.2557142857142866,
+        "time": 1795782599999
       },
       "long": {
-        "price": 72.37,
-        "ema20": 71.16970180288916,
-        "ema50": 70.67080631370867,
-        "rsi": 69.58,
-        "volume_ratio": 3.82,
-        "atr": 0.6128571428571428,
-        "time": 1795748399999
+        "price": 73.16,
+        "ema20": 72.38242201101787,
+        "ema50": 71.45676107397729,
+        "rsi": 67.79,
+        "volume_ratio": 0.88,
+        "atr": 0.6121428571428577,
+        "time": 1795780799999
       },
-      "technical": "WATCH",
-      "hypothetical_stop": 71.714286,
-      "hypothetical_target": 73.681429
+      "technical": "WAIT",
+      "hypothetical_stop": 72.528571,
+      "hypothetical_target": 74.062857
     }
   ],
   "headlines": [
-    "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
-    "Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases",
-    "Crypto for Advisors: Four questions to ask before trusting a crypto exchange",
-    "Spain gives anti-laundering unit power to freeze crypto accounts without a judge",
-    "Standard Chartered's Zodia Custody suffers data breach, exposing client information"
+    "Bitcoin 'death cross' is coming. Here's what happened after previous 13.",
+    "Bitcoin on course to end seven-week losing streak while trailing stock rebound ",
+    "Live news: Bitcoin rebounds above $61,000 as AI stocks lead premarket gains",
+    "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
+    "Injective asks SEC to allow order books for tokenized stock trading"
   ],
-  "ai": "### SOLUSDT — ניתוח טכני למסחר מדומה בלבד\n\n- **מגמה:** המחיר שסופק, 72.37, נמצא מעל EMA20 ומעל EMA50 בשני טווחי הזמן. גם EMA20 גבוה מ־EMA50 בשניהם. זהו מבנה טכני חיובי בנקודת המדידה, אך הוא אינו מבטיח שהמגמה תימשך.\n- **מומנטום ונפח:** ה־RSI עומד על 68.99 בטווח הקצר ועל 69.58 בטווח הארוך — קרוב לסף המקובל של 70, אך מתחתיו. יחס הנפח הוא 1.67 בקצר ו־3.82 בארוך, כלומר הנפח גבוה מבסיס ההשוואה בכל טווח. לא צוין כיצד חושב הבסיס, ונפח גבוה כשלעצמו אינו מעיד על כיוון.\n- **תנודתיות:** ה־ATR הוא כ־0.328 בטווח הקצר וכ־0.613 בטווח הארוך. הוא מודד את גודל תנודות המחיר, לא את כיוונן.\n- **תרחיש מדומה:** הסיווג שסופק הוא `WATCH` (מעקב), ובאותה חותמת זמן תועד אירוע כניסה מדומה (`PAPER_ENTRY`) ב־72.37. רמת העצירה ההיפותטית היא 71.714286 והיעד ההיפותטי הוא 73.681429. אלו רמות לתרגול בלבד, לא תחזית ולא עדות לביצוע עסקה בפועל.\n\nהנתונים משקפים נקודת זמן אחת. אין בהם כדי לקבוע אם המחיר יגיע לאחת מהרמות או אם המגמה תימשך.\n\n### תרגום הכותרות שסופקו — ללא אימות\n\n1. מפתח מצא כי תשלום זעיר עלול לחשוף את כתובת ה־IP שמאחורי ארנק ביטקוין.\n2. היקף הביטקוין שלא הוזז עולה — דפוס שנצפה בעבר בתקופות שבהן שווקים דוביים התקרבו לתחתית.\n3. קריפטו ליועצים: ארבע שאלות שכדאי לשאול לפני שנותנים אמון בבורסת קריפטו.\n4. ספרד מעניקה ליחידה למאבק בהלבנת הון סמכות להקפיא חשבונות קריפטו ללא אישור שופט.\n5. דליפת נתונים ב־Zodia Custody של סטנדרד צ'רטרד חשפה מידע על לקוחות.",
+  "ai": null,
   "paper_positions": {
     "SOLUSDT": {
       "entry": 72.37,
@@ -91,18 +91,11 @@
       "review_price": 72.37
     }
   },
-  "paper_events": [
-    {
-      "symbol": "SOLUSDT",
-      "event": "PAPER_ENTRY",
-      "price": 72.37,
-      "time": 1795748399999
-    }
-  ],
+  "paper_events": [],
   "last_seen": {
-    "BTCUSDT": 1795748399999,
-    "ETHUSDT": 1795748399999,
-    "SOLUSDT": 1795748399999
+    "BTCUSDT": 1795782599999,
+    "ETHUSDT": 1795782599999,
+    "SOLUSDT": 1795782599999
   },
   "history": [
     {
@@ -126,5 +119,5 @@
     "input_tokens": 373,
     "output_tokens": 570
   },
-  "ai_status": "ok"
+  "ai_status": "skipped"
 }
