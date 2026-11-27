@@ -1,101 +1,103 @@
 {
-  "updated": "2026-11-27T12:40:49.050277+00:00",
+  "updated": "2026-11-27T21:40:21.551050+00:00",
   "rows": [
     {
       "symbol": "BTCUSDT",
       "short": {
-        "price": 61586.01,
-        "ema20": 61653.85095246045,
-        "ema50": 61479.872358099994,
-        "rsi": 47.5,
-        "volume_ratio": 0.49,
-        "atr": 148.5342857142849,
-        "time": 1795782599999
+        "price": 59827.75,
+        "ema20": 59968.20272339867,
+        "ema50": 60393.78956459704,
+        "rsi": 41.05,
+        "volume_ratio": 0.32,
+        "atr": 132.17071428571424,
+        "time": 1795814999999
       },
       "long": {
-        "price": 61662.57,
-        "ema20": 61247.72326253411,
-        "ema50": 60799.740400851755,
-        "rsi": 66.96,
-        "volume_ratio": 0.91,
-        "atr": 414.8528571428568,
-        "time": 1795780799999
+        "price": 59799.09,
+        "ema20": 60570.329298543824,
+        "ema50": 60621.30009225366,
+        "rsi": 36.76,
+        "volume_ratio": 0.38,
+        "atr": 591.1521428571426,
+        "time": 1795813199999
       },
       "technical": "WAIT",
-      "hypothetical_stop": 61288.941429,
-      "hypothetical_target": 62180.147143
+      "hypothetical_stop": 59563.408571,
+      "hypothetical_target": 60356.432857
     },
     {
       "symbol": "ETHUSDT",
       "short": {
-        "price": 1721.13,
-        "ema20": 1727.8503578738153,
-        "ema50": 1724.2902774801248,
-        "rsi": 37.57,
-        "volume_ratio": 0.42,
-        "atr": 4.936428571428564,
-        "time": 1795782599999
+        "price": 1665.7,
+        "ema20": 1672.3973678638263,
+        "ema50": 1686.990867842063,
+        "rsi": 37.01,
+        "volume_ratio": 2.15,
+        "atr": 4.102142857142845,
+        "time": 1795814999999
       },
       "long": {
-        "price": 1724.04,
-        "ema20": 1718.113220329299,
-        "ema50": 1704.9512030644999,
-        "rsi": 57.42,
-        "volume_ratio": 0.81,
-        "atr": 14.456428571428546,
-        "time": 1795780799999
+        "price": 1667.45,
+        "ema20": 1693.9311451676492,
+        "ema50": 1697.5860690453317,
+        "rsi": 35.22,
+        "volume_ratio": 0.28,
+        "atr": 18.267857142857142,
+        "time": 1795813199999
       },
       "technical": "WAIT",
-      "hypothetical_stop": 1711.257143,
-      "hypothetical_target": 1740.875714
+      "hypothetical_stop": 1657.495714,
+      "hypothetical_target": 1682.108571
     },
     {
       "symbol": "SOLUSDT",
       "short": {
-        "price": 73.04,
-        "ema20": 73.2303270789126,
-        "ema50": 72.81959714299852,
-        "rsi": 45.25,
-        "volume_ratio": 0.33,
-        "atr": 0.2557142857142866,
-        "time": 1795782599999
+        "price": 71.87,
+        "ema20": 72.07080547318834,
+        "ema50": 72.27043556463892,
+        "rsi": 43.51,
+        "volume_ratio": 0.22,
+        "atr": 0.2078571428571416,
+        "time": 1795814999999
       },
       "long": {
-        "price": 73.16,
-        "ema20": 72.38242201101787,
-        "ema50": 71.45676107397729,
-        "rsi": 67.79,
-        "volume_ratio": 0.88,
-        "atr": 0.6121428571428577,
-        "time": 1795780799999
+        "price": 71.96,
+        "ema20": 72.22755949327961,
+        "ema50": 71.70249474417332,
+        "rsi": 48.35,
+        "volume_ratio": 0.21,
+        "atr": 0.8050000000000007,
+        "time": 1795813199999
       },
       "technical": "WAIT",
-      "hypothetical_stop": 72.528571,
-      "hypothetical_target": 74.062857
+      "hypothetical_stop": 71.454286,
+      "hypothetical_target": 72.701429
     }
   ],
   "headlines": [
+    "Kalshi turns to small businesses as legal battles threaten forecasts on sports",
     "Bitcoin 'death cross' is coming. Here's what happened after previous 13.",
     "Bitcoin on course to end seven-week losing streak while trailing stock rebound ",
-    "Live news: Bitcoin rebounds above $61,000 as AI stocks lead premarket gains",
-    "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
-    "Injective asks SEC to allow order books for tokenized stock trading"
+    "Live updates: Bitcoin's Thanksgiving gains prove fleeting",
+    "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin"
   ],
-  "ai": null,
-  "paper_positions": {
-    "SOLUSDT": {
+  "ai": "## SOLUSDT — ניתוח טכני למסחר מדומה בלבד\n\n**הסטטוס שסופק הוא `WAIT` (המתנה).** בטווח הקצר המחיר נמצא מתחת לשני הממוצעים הנעים, ואילו בטווח הארוך הוא נמצא ביניהם. התמונה אינה אחידה בין הטווחים.\n\n| טווח | מחיר | EMA20 | EMA50 | RSI | יחס נפח | ATR |\n|---|---:|---:|---:|---:|---:|---:|\n| קצר | 71.87 | 72.07 | 72.27 | 43.51 | 0.22 | 0.208 |\n| ארוך | 71.96 | 72.23 | 71.70 | 48.35 | 0.21 | 0.805 |\n\n- **טווח קצר:** המחיר מתחת לשני הממוצעים, ו־EMA20 נמוך מ־EMA50. גם ה־RSI מתחת ל־50. המדדים האלה מצביעים על חולשה יחסית בנקודת המדידה, אך אינם קובעים מה יהיה כיוון המחיר בהמשך.\n- **טווח ארוך:** המחיר מתחת ל־EMA20 אך מעל ל־EMA50, ו־EMA20 עדיין מעל EMA50. ה־RSI קרוב ל־50, כך שהתמונה מעורבת יותר מאשר בטווח הקצר.\n- **נפח ותנודתיות:** יחסי הנפח נמוכים מ־1 בשני הטווחים, אך לא צוין מהו בסיס ההשוואה. ה־ATR גבוה יותר בטווח הארוך; הוא מודד את גודל התנודות, לא את כיוונן.\n\n**אירוע מדומה:** נרשמה יציאה (`PAPER_EXIT`) במחיר 71.87, לעומת כניסה ב־72.37. הסיבה שסופקה היא `trend` (מגמה), והתוצאה נטו המדווחת היא ‎−0.889%. בנפרד, סופקו רמת עצירה היפותטית של 71.454286 ויעד היפותטי של 72.701429. לא צוין שרמות אלה הופעלו או שימשו ליציאה.\n\n**אי־ודאות:** המדידות בשני הטווחים אינן מאותו מועד. אלו תצפיות נקודתיות למסחר מדומה, לא תחזית מחיר או תשואה.\n\n## תרגום הכותרות שסופקו\n\nהכותרות מתורגמות כפי שסופקו. הן לא אומתו ולא שימשו בסיס לניתוח הטכני.\n\n1. קלשי פונה לעסקים קטנים, בעוד מאבקים משפטיים מאיימים על פעילות התחזיות שלה בתחום הספורט.\n2. ״צלב המוות״ של הביטקוין מתקרב. הנה מה שקרה אחרי 13 המקרים הקודמים.\n3. הביטקוין בדרך לסיים רצף של שבעה שבועות של ירידות, אך עדיין מפגר",
+  "paper_positions": {},
+  "paper_events": [
+    {
+      "symbol": "SOLUSDT",
+      "event": "PAPER_EXIT",
+      "reason": "trend",
+      "price": 71.87,
       "entry": 72.37,
-      "stop": 71.714286,
-      "target": 73.681429,
-      "time": 1795748399999,
-      "review_price": 72.37
+      "time": 1795814999999,
+      "net_pct": -0.889
     }
-  },
-  "paper_events": [],
+  ],
   "last_seen": {
-    "BTCUSDT": 1795782599999,
-    "ETHUSDT": 1795782599999,
-    "SOLUSDT": 1795782599999
+    "BTCUSDT": 1795814999999,
+    "ETHUSDT": 1795814999999,
+    "SOLUSDT": 1795814999999
   },
   "history": [
     {
@@ -103,21 +105,30 @@
       "event": "PAPER_ENTRY",
       "price": 72.37,
       "time": 1795748399999
+    },
+    {
+      "symbol": "SOLUSDT",
+      "event": "PAPER_EXIT",
+      "reason": "trend",
+      "price": 71.87,
+      "entry": 72.37,
+      "time": 1795814999999,
+      "net_pct": -0.889
     }
   ],
   "history_started": "2026-11-26T02:56:41.887550+00:00",
   "performance": {
     "initial": 1000,
-    "realized": 0,
-    "balance": 1000,
-    "closed": 0,
+    "realized": -0.889,
+    "balance": 999.111,
+    "closed": 1,
     "wins": 0
   },
-  "last_daily": "2026-11-26",
-  "ai_calls": 1,
+  "last_daily": "2026-11-27",
+  "ai_calls": 2,
   "ai_usage": {
-    "input_tokens": 373,
-    "output_tokens": 570
+    "input_tokens": 755,
+    "output_tokens": 1270
   },
-  "ai_status": "skipped"
+  "ai_status": "ok"
 }
