@@ -1,93 +1,93 @@
 {
-  "updated": "2026-11-28T03:34:32.595375+00:00",
+  "updated": "2026-11-28T12:16:15.343415+00:00",
   "rows": [
     {
       "symbol": "BTCUSDT",
       "short": {
-        "price": 59913.71,
-        "ema20": 60000.57348796042,
-        "ema50": 60130.51263233135,
-        "rsi": 44.66,
-        "volume_ratio": 0.71,
-        "atr": 112.466428571429,
-        "time": 1795836599999
+        "price": 59300.99,
+        "ema20": 59449.8220830769,
+        "ema50": 59720.79328410351,
+        "rsi": 36.06,
+        "volume_ratio": 0.6,
+        "atr": 142.77142857142877,
+        "time": 1795868099999
       },
       "long": {
-        "price": 59968.19,
-        "ema20": 60284.06771418406,
-        "ema50": 60480.90759452941,
-        "rsi": 42.3,
-        "volume_ratio": 0.44,
-        "atr": 541.9821428571429,
-        "time": 1795834799999
+        "price": 59238.3,
+        "ema20": 59878.28421878587,
+        "ema50": 60233.49699729801,
+        "rsi": 32.0,
+        "volume_ratio": 0.43,
+        "atr": 302.5228571428576,
+        "time": 1795867199999
       },
       "technical": "WAIT",
-      "hypothetical_stop": 59688.777143,
-      "hypothetical_target": 60363.575714
+      "hypothetical_stop": 59015.447143,
+      "hypothetical_target": 59872.075714
     },
     {
       "symbol": "ETHUSDT",
       "short": {
-        "price": 1662.5,
-        "ema20": 1665.7049203663635,
-        "ema50": 1672.8809449380005,
-        "rsi": 42.14,
-        "volume_ratio": 0.41,
-        "atr": 3.663571428571442,
-        "time": 1795836599999
+        "price": 1650.87,
+        "ema20": 1651.6466689938268,
+        "ema50": 1658.9872990410936,
+        "rsi": 45.11,
+        "volume_ratio": 1.13,
+        "atr": 4.822142857142824,
+        "time": 1795868099999
       },
       "long": {
-        "price": 1664.55,
-        "ema20": 1680.1738638324025,
-        "ema50": 1690.508516680722,
-        "rsi": 38.45,
-        "volume_ratio": 0.9,
-        "atr": 17.265714285714303,
-        "time": 1795834799999
+        "price": 1648.54,
+        "ema20": 1664.8714523871336,
+        "ema50": 1680.088034076429,
+        "rsi": 32.89,
+        "volume_ratio": 0.77,
+        "atr": 9.487857142857122,
+        "time": 1795867199999
       },
       "technical": "WAIT",
-      "hypothetical_stop": 1655.172857,
-      "hypothetical_target": 1677.154286
+      "hypothetical_stop": 1641.225714,
+      "hypothetical_target": 1670.158571
     },
     {
       "symbol": "SOLUSDT",
       "short": {
-        "price": 71.57,
-        "ema20": 71.82926062291595,
-        "ema50": 71.96004325377334,
-        "rsi": 41.32,
-        "volume_ratio": 1.67,
-        "atr": 0.23999999999999894,
-        "time": 1795836599999
+        "price": 70.99,
+        "ema20": 71.02288347401175,
+        "ema50": 71.34263518792275,
+        "rsi": 44.76,
+        "volume_ratio": 0.97,
+        "atr": 0.21785714285714164,
+        "time": 1795868099999
       },
       "long": {
-        "price": 71.72,
-        "ema20": 72.03134602415378,
-        "ema50": 71.74232092545192,
-        "rsi": 46.62,
-        "volume_ratio": 0.59,
-        "atr": 0.808571428571427,
-        "time": 1795834799999
+        "price": 70.95,
+        "ema20": 71.51141621591509,
+        "ema50": 71.59658636440751,
+        "rsi": 40.34,
+        "volume_ratio": 0.34,
+        "atr": 0.4842857142857134,
+        "time": 1795867199999
       },
       "technical": "WAIT",
-      "hypothetical_stop": 71.09,
-      "hypothetical_target": 72.53
+      "hypothetical_stop": 70.554286,
+      "hypothetical_target": 71.861429
     }
   ],
   "headlines": [
+    "Trump-linked crypto token WLFI plunges 50% to record lows",
     "Kalshi turns to small businesses as legal battles threaten forecasts on sports",
     "Bitcoin 'death cross' is coming. Here's what happened after previous 13.",
     "Bitcoin on course to end seven-week losing streak while trailing stock rebound ",
-    "Live updates: Bitcoin's Thanksgiving gains prove fleeting",
-    "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin"
+    "Live updates: Bitcoin's Thanksgiving gains prove fleeting"
   ],
   "ai": null,
   "paper_positions": {},
   "paper_events": [],
   "last_seen": {
-    "BTCUSDT": 1795836599999,
-    "ETHUSDT": 1795836599999,
-    "SOLUSDT": 1795836599999
+    "BTCUSDT": 1795868099999,
+    "ETHUSDT": 1795868099999,
+    "SOLUSDT": 1795868099999
   },
   "history": [
     {
